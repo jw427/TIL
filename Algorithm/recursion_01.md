@@ -189,9 +189,9 @@ public static double gcd(int m, int n) {
 
 ### Euclid Method : 좀 더 단순한 버전
 
-$gcd(p, q) = \begin{cases} p \ \ \ \ \ \ if \ \ q = 0 \\
-gcd(q, \ p \% q) \ \ \ \ \ \ otherwise.
-\end{cases}$
+- $gcd(p, q)$
+  - $p \ \ \ \ \ \ if \ \ q = 0$
+  - $gcd(q, p$ `%` $q) \ \ \ \ \ \ otherwise.$
 
 ```java
 public static int gcd(int p, int q) {
