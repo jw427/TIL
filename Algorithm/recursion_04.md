@@ -10,7 +10,7 @@
 - 흰색이 지나갈 수 있는 통로, 파란색이 벽
 - 입구에서 출구까지 가는 경로를 찾는 문제
 
-![Maze](./Algorithm/img/maze_01.png)
+![Maze](./img/maze_01.png)
 
 ### Recursive Thinking
 
